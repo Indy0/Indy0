@@ -10,5 +10,5 @@
 - ⚡ Talk to me about: Your favorite foods, top places you want to travel to, and what's on your        bucket list!
 ---
 - Thanks for reading!
-- [LinkedIn](https://www.linkedin.com/in/joshuagarcia2248/)
+- 📇 [LinkedIn](https://www.linkedin.com/in/joshuagarcia2248/)
 - 💌 Reach me at: jagwinnie@gmail.com
