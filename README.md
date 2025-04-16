@@ -13,4 +13,6 @@
 - 📇 [LinkedIn](https://www.linkedin.com/in/joshuagarcia2248/)
 - 💌 Reach me at: jagwinnie@gmail.com
 ---
+<p align="center">
 :arrow_down: Check out my portfolio projects below! :arrow_down:
+</p>
